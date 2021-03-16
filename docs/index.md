@@ -23,21 +23,6 @@ _paginate: false
 
 ---
 
-# Схема исследуемой системы
-
-![bg h:700px](img/monitoring-1.svg)
-
----
-
-![bg h:700px](img/monitoring-1.svg)
-
----
-
-![bg h:700px](img/monitoring-2.svg)
-
----
-
-
 # Много JVM в Kubernetes Pod, Kafka, Elastic Search
 ![bg right h:700px](img/monitoring-4.svg)
 

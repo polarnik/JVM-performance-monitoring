@@ -18,7 +18,7 @@ _paginate: false
 
 # Исследователь артефактов НТ
 
-![bg cover](https://raw.githubusercontent.com/polarnik/Apache.JMeter.Benchmark.NG/master/docs/images/omsk.jpg)
+![bg cover](img/omsk.jpg)
 
 
 ---

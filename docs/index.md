@@ -29,7 +29,7 @@ _paginate: false
 ---
 
 
-# 100 JVM работающих с друг с другом и базой
+# 100 JVM работающих друг с другом и базой
 ![bg right h:700px](img/monitoring-5.svg)
 
 ---
